@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "정대만",
+      "tel": "010-FIRE-FIRE",
+      "address": "거기 산다",
+      "isMe": true
+    },
+    {
+      "id": 2,
+      "name": "강백호",
+      "tel": "010-0000-0001",
+      "address": "길거리 어딘가",
+      "isMe": false
+    },
+    {
+      "id": 3,
+      "name": "채소연",
+      "tel": "010-0000-0003",
+      "address": "채치수네 집",
+      "isMe": false
+    },
+    {
+      "id": 4,
+      "name": "채치수",
+      "tel": "010-0000-0006",
+      "address": "채소연네 집",
+      "isMe": false
+    },
+    {
+      "id": 5,
+      "name": "뽀로로",
+      "tel": "010-0001-0033",
+      "address": "거기",
+      "isMe": false
+    }
+  ]
+}
